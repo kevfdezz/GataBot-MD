@@ -7,17 +7,17 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['573238484181', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['573208089136', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['5493458410725', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 4 💖🐈', true],
+  ['34603022140', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
+  ['573238484181', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', false],
+  ['573208089136', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', false],
+  ['5493458410725', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 4 💖🐈', false],
   ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
   ['5492266466080'], ['573136855110'], ['50689823726'], ['50495086382'], ['51960086535'],
   ['584125778026'], ['584166662765'], ['584163647116'], ['15512090312'], ['593968585383']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['34603022140'], 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -102,50 +102,26 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'Ҝ乇ᐯ丨几-乃ㄖㄒ 🐈'
+global.author = 'Ҝ乇ᐯ丨几-乃ㄖㄒ'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.vs = '1.4.0 (Navidad) 🎄'
+global.vs = 'Ҝ乇ᐯ丨几-乃ㄖㄒ'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'Ҝ乇ᐯ丨几-乃ㄖㄒ'
 global.gatabot = gt
-
-global.yt = 'https://youtube.com/@gatadios'
-global.youtube = yt
-
-global.ig = 'https://www.instagram.com/gata_dios'
-global.gatadiosig = ig
-
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.gatabot = md
-
-global.nna = 'https://chat.whatsapp.com/HBiHQBwqXhZIvQ3i79Fjr4' //UPDATE GATABOT
-global.nna2 = 'HBiHQBwqXhZIvQ3i79Fjr4'
-
-global.nn = 'https://chat.whatsapp.com/LtWKNYRPGFF5uUTLfg9qjl' //Grupo 1
-
-global.nnn = 'https://chat.whatsapp.com/DNscA7AE7KHEX0z2lnNAJx' //Grupo 2
-
-global.nnnt = 'https://chat.whatsapp.com/I8H1r5KnKk0GUzkgQLTwYE' //Grupo 3
-
-global.nnntt = 'https://chat.whatsapp.com/HQPCZSXiVvVCOhwYv7BVfL' //Grupo 4
-
-global.nnnttt = 'https://chat.whatsapp.com/CElZDsGX5xNCm4tPBt73El' //Grupo 5
-
-global.nnnttt2 = 'https://chat.whatsapp.com/Br6bNYzj1CB4vpa1YeeURG' //Grupo 6 COL
 
 global.nnnttt3 = 'https://chat.whatsapp.com/DeQm9J0tpbt5VH6kZkyL2D' //Grupo 7 COL
 
 global.paypal = 'https://paypal.me/OficialGD'
 global.donar = paypal
 
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/603022140' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -179,13 +155,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'Ҝ乇ᐯ丨几-乃ㄖㄒ'
+global.igfg = 'Ҝ乇ᐯ丨几-乃ㄖㄒ'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.nomorown = '34603022140'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
