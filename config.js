@@ -116,10 +116,42 @@ global.version = vs
 global.gt = 'Ҝ乇ᐯ丨几-乃ㄖㄒ'
 global.gatabot = gt
 
-global.nnnttt3 = 'https://chat.whatsapp.com/DeQm9J0tpbt5VH6kZkyL2D' //Grupo 7 COL
+global.vs = '1.4.0 (Navidad) 🎄'
+global.version = vs
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.gt = 'Ҝ乇ᐯ丨几-乃ㄖㄒ'
+global.gatabot = gt
+
+global.yt = ''
+global.youtube = yt
+
+global.ig = ''
+global.gatadiosig = ig
+
+global.md = ''
+global.gatabot = md
+
+global.nna = '' //UPDATE GATABOT
+global.nna2 = 'HBiHQBwqXhZIvQ3i79Fjr4'
+
+global.nn = '' //Grupo 1
+
+global.nnn = '' //Grupo 2
+
+global.nnnt = '' //Grupo 3
+
+global.nnntt = '' //Grupo 4
+
+global.nnnttt = '' //Grupo 5
+
+global.nnnttt2 = '' //Grupo 6 COL
+
+global.nnnttt3 = '' //Grupo 7 COL
+
+global.paypal = ''
+
 global.donar = paypal
+
 
 global.asistencia = 'Wa.me/603022140' //Dudas? escríbeme...
 
